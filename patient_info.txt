@@ -1,0 +1,26 @@
+Name: siam
+Age: 18
+Gender: female
+Blood Group: O+
+Cabin Room: 209
+Number: 203894823
+Paid Amount: 1200
+Due Amount: 200
+Disease Details: fever
+
+Passcode: 1111
+
+
+Name: mahin
+Age: 20
+Gender: male
+Blood Group: b+
+Cabin Room: 409
+Number: 084928499
+Paid Amount: 1000
+Due Amount: 2000
+Disease Details: diarroah
+
+Passcode: 2222
+
+
